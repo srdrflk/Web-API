@@ -17,14 +17,36 @@ namespace WebAPI.Services
             _mapper = mapper;
         }
 
-        public async Task<IEnumerable<ProductDTO>> GetProducts()
+        public async Task<PagedResponseDTO<ProductDTO>> GetProducts(ProductQueryDTO query)
         {
-            var products = await _context.Products
+            // Base query with filtering
+            var baseQuery = _context.Products
                 .Include(p => p.Category)
-                .Where(p => p.ProductName != null) // Filter out null product names
+                .Where(p => p.ProductName != null);
+
+            // Apply category filter if specified
+            if (query.CategoryId.HasValue)
+            {
+                baseQuery = baseQuery.Where(p => p.CategoryId == query.CategoryId);
+            }
+
+            // Get total count before pagination
+            var totalRecords = await baseQuery.CountAsync();
+
+            // Apply pagination
+            var products = await baseQuery
+                .OrderBy(p => p.ProductId)
+                .Skip((query.PageNumber - 1) * query.PageSize)
+                .Take(query.PageSize)
                 .ToListAsync();
 
-            return _mapper.Map<IEnumerable<ProductDTO>>(products) ?? Enumerable.Empty<ProductDTO>();
+            // Map to DTO and return with pagination info
+            var productDtos = _mapper.Map<IEnumerable<ProductDTO>>(products);
+            return new PagedResponseDTO<ProductDTO>(
+                productDtos,
+                query.PageNumber,
+                query.PageSize,
+                totalRecords);
         }
 
         public async Task<ProductDTO> GetProductById(int id)

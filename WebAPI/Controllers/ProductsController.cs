@@ -16,10 +16,17 @@ namespace WebAPI.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<ProductDTO>>> GetProducts()
+        public async Task<ActionResult<PagedResponseDTO<ProductDTO>>> GetProducts([FromQuery] ProductQueryDTO query)
         {
-            var products = await _productService.GetProducts();
-            return Ok(products);
+            try
+            {
+                var products = await _productService.GetProducts(query);
+                return Ok(products);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
         [HttpGet("{id}")]

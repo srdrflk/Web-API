@@ -4,7 +4,7 @@ namespace WebAPI.Services
 {
     public interface IProductService
     {
-        Task<IEnumerable<ProductDTO>> GetProducts();
+        Task<PagedResponseDTO<ProductDTO>> GetProducts(ProductQueryDTO query);
         Task<ProductDTO> GetProductById(int id);
         Task<ProductDTO> CreateProduct(CreateProductDTO productDto);
         Task UpdateProduct(int id, UpdateProductDTO productDto);
