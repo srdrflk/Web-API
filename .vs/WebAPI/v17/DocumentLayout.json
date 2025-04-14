@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1268B6F7-6110-4860-B76B-68BD7D838D1B}|NorthwindApiClient\\NorthwindApiClient.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\webapi\\northwindapiclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1268B6F7-6110-4860-B76B-68BD7D838D1B}|NorthwindApiClient\\NorthwindApiClient.csproj|solutionrelative:northwindapiclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1268B6F7-6110-4860-B76B-68BD7D838D1B}|NorthwindApiClient\\NorthwindApiClient.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\webapi\\northwindapiclient\\services\\northwindapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1268B6F7-6110-4860-B76B-68BD7D838D1B}|NorthwindApiClient\\NorthwindApiClient.csproj|solutionrelative:northwindapiclient\\services\\northwindapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1268B6F7-6110-4860-B76B-68BD7D838D1B}|NorthwindApiClient\\NorthwindApiClient.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\webapi\\northwindapiclient\\services\\inorthwindapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1268B6F7-6110-4860-B76B-68BD7D838D1B}|NorthwindApiClient\\NorthwindApiClient.csproj|solutionrelative:northwindapiclient\\services\\inorthwindapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1268B6F7-6110-4860-B76B-68BD7D838D1B}|NorthwindApiClient\\NorthwindApiClient.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\webapi\\northwindapiclient\\models\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1268B6F7-6110-4860-B76B-68BD7D838D1B}|NorthwindApiClient\\NorthwindApiClient.csproj|solutionrelative:northwindapiclient\\models\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1268B6F7-6110-4860-B76B-68BD7D838D1B}|NorthwindApiClient\\NorthwindApiClient.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\webapi\\northwindapiclient\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1268B6F7-6110-4860-B76B-68BD7D838D1B}|NorthwindApiClient\\NorthwindApiClient.csproj|solutionrelative:northwindapiclient\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1268B6F7-6110-4860-B76B-68BD7D838D1B}|NorthwindApiClient\\NorthwindApiClient.csproj|c:\\users\\serdar_filik\\desktop\\dotnetbasicmentorprojects\\webapi\\northwindapiclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1268B6F7-6110-4860-B76B-68BD7D838D1B}|NorthwindApiClient\\NorthwindApiClient.csproj|solutionrelative:northwindapiclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9602C58-F854-4E19-8E75-62A996F75595}|WebAPI\\WebAPI.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9602C58-F854-4E19-8E75-62A996F75595}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9602C58-F854-4E19-8E75-62A996F75595}|WebAPI\\WebAPI.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D9602C58-F854-4E19-8E75-62A996F75595}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9602C58-F854-4E19-8E75-62A996F75595}|WebAPI\\WebAPI.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9602C58-F854-4E19-8E75-62A996F75595}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9602C58-F854-4E19-8E75-62A996F75595}|WebAPI\\WebAPI.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\webapi\\mappingprofiles\\northwindmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9602C58-F854-4E19-8E75-62A996F75595}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\mappingprofiles\\northwindmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -73,18 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D9602C58-F854-4E19-8E75-62A996F75595}|WebAPI\\WebAPI.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9602C58-F854-4E19-8E75-62A996F75595}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9602C58-F854-4E19-8E75-62A996F75595}|WebAPI\\WebAPI.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D9602C58-F854-4E19-8E75-62A996F75595}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9602C58-F854-4E19-8E75-62A996F75595}|WebAPI\\WebAPI.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{D9602C58-F854-4E19-8E75-62A996F75595}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9602C58-F854-4E19-8E75-62A996F75595}|WebAPI\\WebAPI.csproj|C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D9602C58-F854-4E19-8E75-62A996F75595}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,16 +118,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Controllers\\ProductsController.cs*",
-              "RelativeToolTip": "WebAPI\\Controllers\\ProductsController.cs*",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T19:46:07.235Z",
@@ -112,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\CategoriesController.cs",
@@ -121,11 +145,12 @@
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwCQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T19:45:50.058Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "WebAPI\\Services\\ProductService.cs",
@@ -139,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "WebAPI\\Services\\CategoryService.cs",
@@ -152,8 +177,129 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\NorthwindApiClient\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "NorthwindApiClient\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\NorthwindApiClient\\Models\\ProductDto.cs",
+              "RelativeToolTip": "NorthwindApiClient\\Models\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:56:36.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INorthwindApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\NorthwindApiClient\\Services\\INorthwindApiService.cs",
+              "RelativeDocumentMoniker": "NorthwindApiClient\\Services\\INorthwindApiService.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\NorthwindApiClient\\Services\\INorthwindApiService.cs",
+              "RelativeToolTip": "NorthwindApiClient\\Services\\INorthwindApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:56:13.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\NorthwindApiClient\\Models\\PagedResponse.cs",
+              "RelativeDocumentMoniker": "NorthwindApiClient\\Models\\PagedResponse.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\NorthwindApiClient\\Models\\PagedResponse.cs",
+              "RelativeToolTip": "NorthwindApiClient\\Models\\PagedResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:56:46.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NorthwindApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\NorthwindApiClient\\Services\\NorthwindApiService.cs",
+              "RelativeDocumentMoniker": "NorthwindApiClient\\Services\\NorthwindApiService.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\NorthwindApiClient\\Services\\NorthwindApiService.cs",
+              "RelativeToolTip": "NorthwindApiClient\\Services\\NorthwindApiService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwEkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:56:25.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\NorthwindApiClient\\Program.cs",
+              "RelativeDocumentMoniker": "NorthwindApiClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\NorthwindApiClient\\Program.cs",
+              "RelativeToolTip": "NorthwindApiClient\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwCIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:54:02.228Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\NorthwindApiClient\\appsettings.json",
+              "RelativeDocumentMoniker": "NorthwindApiClient\\appsettings.json",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\NorthwindApiClient\\appsettings.json",
+              "RelativeToolTip": "NorthwindApiClient\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T19:57:14.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T19:44:49.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebAPI.http",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\WebAPI.http",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.http",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\WebAPI.http",
+              "RelativeToolTip": "WebAPI\\WebAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-13T19:45:24.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T19:43:31.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "PagedResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Models\\DTOs\\PagedResponseDTO.cs",
               "RelativeDocumentMoniker": "WebAPI\\Models\\DTOs\\PagedResponseDTO.cs",
@@ -166,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "ProductQueryDTO.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Models\\DTOs\\ProductQueryDTO.cs",
               "RelativeDocumentMoniker": "WebAPI\\Models\\DTOs\\ProductQueryDTO.cs",
@@ -178,36 +324,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "NorthwindMappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\MappingProfiles\\NorthwindMappingProfile.cs",
               "RelativeDocumentMoniker": "WebAPI\\MappingProfiles\\NorthwindMappingProfile.cs",
@@ -220,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
@@ -228,11 +346,12 @@
               "RelativeToolTip": "WebAPI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:42:53.761Z"
+              "WhenOpened": "2025-04-13T19:42:53.761Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "WebAPI\\Services\\IProductService.cs",
@@ -245,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Models\\Category.cs",
               "RelativeDocumentMoniker": "WebAPI\\Models\\Category.cs",
@@ -253,11 +372,12 @@
               "RelativeToolTip": "WebAPI\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:46:57.359Z"
+              "WhenOpened": "2025-04-13T19:46:57.359Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "NorthwindContext.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Data\\NorthwindContext.cs",
               "RelativeDocumentMoniker": "WebAPI\\Data\\NorthwindContext.cs",
@@ -265,11 +385,12 @@
               "RelativeToolTip": "WebAPI\\Data\\NorthwindContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:50:03.426Z"
+              "WhenOpened": "2025-04-13T19:50:03.426Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "CategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Models\\DTOs\\CategoryDTO.cs",
               "RelativeDocumentMoniker": "WebAPI\\Models\\DTOs\\CategoryDTO.cs",
@@ -277,11 +398,12 @@
               "RelativeToolTip": "WebAPI\\Models\\DTOs\\CategoryDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:47:44.329Z"
+              "WhenOpened": "2025-04-13T19:47:44.329Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Services\\ICategoryService.cs",
               "RelativeDocumentMoniker": "WebAPI\\Services\\ICategoryService.cs",
@@ -289,11 +411,12 @@
               "RelativeToolTip": "WebAPI\\Services\\ICategoryService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:50:43.094Z"
+              "WhenOpened": "2025-04-13T19:50:43.094Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "CreateCategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Models\\DTOs\\CreateCategoryDTO.cs",
               "RelativeDocumentMoniker": "WebAPI\\Models\\DTOs\\CreateCategoryDTO.cs",
@@ -301,11 +424,12 @@
               "RelativeToolTip": "WebAPI\\Models\\DTOs\\CreateCategoryDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:48:08.062Z"
+              "WhenOpened": "2025-04-13T19:48:08.062Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Models\\DTOs\\ProductDTO.cs",
               "RelativeDocumentMoniker": "WebAPI\\Models\\DTOs\\ProductDTO.cs",
@@ -313,11 +437,12 @@
               "RelativeToolTip": "WebAPI\\Models\\DTOs\\ProductDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:47:56.747Z"
+              "WhenOpened": "2025-04-13T19:47:56.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "CreateProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Models\\DTOs\\CreateProductDTO.cs",
               "RelativeDocumentMoniker": "WebAPI\\Models\\DTOs\\CreateProductDTO.cs",
@@ -325,11 +450,12 @@
               "RelativeToolTip": "WebAPI\\Models\\DTOs\\CreateProductDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:48:21.492Z"
+              "WhenOpened": "2025-04-13T19:48:21.492Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "UpdateProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Models\\DTOs\\UpdateProductDTO.cs",
               "RelativeDocumentMoniker": "WebAPI\\Models\\DTOs\\UpdateProductDTO.cs",
@@ -337,11 +463,12 @@
               "RelativeToolTip": "WebAPI\\Models\\DTOs\\UpdateProductDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T20:10:04.564Z"
+              "WhenOpened": "2025-04-13T20:10:04.564Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "WebAPI\\Models\\Product.cs",
@@ -349,43 +476,8 @@
               "RelativeToolTip": "WebAPI\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T19:47:12.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\appsettings.json",
-              "RelativeToolTip": "WebAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-13T19:43:31.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "WebAPI.http",
-              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\WebAPI.http",
-              "RelativeDocumentMoniker": "WebAPI\\WebAPI.http",
-              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\WebAPI.http",
-              "RelativeToolTip": "WebAPI\\WebAPI.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-04-13T19:45:24.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Serdar_Filik\\Desktop\\DotNetBasicMentorProjects\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-13T19:44:49.223Z"
+              "WhenOpened": "2025-04-13T19:47:12.12Z",
+              "EditorCaption": ""
             }
           ]
         }
